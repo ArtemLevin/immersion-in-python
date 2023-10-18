@@ -1,5 +1,0 @@
-
-~python:S117"[Rename this local variable "controlNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(•”Úÿÿÿÿÿ8ÍÔï±1
-{python:S117"XRename this local variable "hexDict" to match the regular expression ^[_a-z][a-z0-9_]*$.(àÁßÿùÿÿÿÿ8ÎÔï±1
-{python:S117"XRename this local variable "hexList" to match the regular expression ^[_a-z][a-z0-9_]*$.(šÊ¤øÿÿÿÿ8ÎÔï±1
-rpython:S1542"NRename function "decToHex" to match the regular expression ^[a-z_][a-z0-9_]*$.(ïÑ ¿üÿÿÿÿ8ÎÔï±1
