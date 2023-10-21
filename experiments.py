@@ -1,5 +1,6 @@
 from functools import reduce
 
-n = 100
-primes = reduce(lambda r, x: r - set(range(x**2, n, x)) if x in r else r, range(2, int(n**0.5) + 1), set(range(2, n)))
-print(primes)
+n = 5
+myList = reduce(lambda x, y: x + [x[-1] - x[-2]], [0]*(n+1), [3, 7])
+print(myList)
+
