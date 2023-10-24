@@ -1,6 +1,4 @@
-from functools import reduce
+import random
 
-n = 5
-myList = reduce(lambda x, y: x + [x[-1] - x[-2]], [0]*(n+1), [3, 7])
-print(myList)
-
+pos = [(random.randint(1,9), random.randint(1,9)) for x in range(1, 9)]
+print(pos)
