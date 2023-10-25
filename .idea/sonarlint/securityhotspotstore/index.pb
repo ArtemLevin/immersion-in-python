@@ -27,11 +27,3 @@
 ht_2_task_1.py,7\0\70ecd0fe9a9d96dee9cb7a78db803b5f9ae3e890
 >
 ht_5_task_1.py,b\6\b66cb89c71f17963588e9a05c44729fd93933794
->
-ht_6_task_1.py,6\9\69e09bee2ccd1450620c39c1c713b969df04e1e9
-=
-one_liners.py,6\8\680a2c84a3947520dc592155684b057987405843
->
-experiments.py,2\9\297d2b8dba73d6918a0ddda7e06942a91d9bdc4b
->
-ht_6_task_2.py,0\0\003dd3af7d0f44d5a0c39c490a69ca1f16b75961

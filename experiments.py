@@ -1,4 +1,7 @@
-import random
+arr = []
 
-pos = [(random.randint(1,9), random.randint(1,9)) for x in range(1, 9)]
-print(pos)
+
+def findMdeian(arr):
+    sortedArr = sorted(arr)
+    arrLen = len(sortedArr)
+    return sortedArr[arrLen // 2] if arrLen % 2 == 0 else (sortedArr[arrLen // 2 - 1] + sortedArr[arrLen // 2 + 1]) // 2
