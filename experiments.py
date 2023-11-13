@@ -1,6 +1,12 @@
-from functools import reduce
+import re
 
-n = 5
-myList = reduce(lambda x, y: x + [x[-1] - x[-2]], [0]*(n+1), [3, 7])
-print(myList)
+text = '''Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
+        standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make 
+        a type
+        specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining
+        essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem 
+        Ipsum passages,
+        and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum'''
 
+my_text = sorted((re.findall("\s.{1,10}l{2}.{1,10}\s", text)))
+print(my_text)
