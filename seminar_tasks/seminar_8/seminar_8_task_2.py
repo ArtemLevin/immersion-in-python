@@ -19,5 +19,5 @@ with (
         for el in jsonFileContent[x]:
             all_data.append([x, list(el.items())[0][0], list(el.items())[0][1]])
     print(all_data)
-    csv_writer=csv.writer(csvFile, dialect="excel", delimiter=" ")
+    csv_writer=csv.writer(csvFile, dialect="excel", delimiter=",")
     csv_writer.writerows(all_data)

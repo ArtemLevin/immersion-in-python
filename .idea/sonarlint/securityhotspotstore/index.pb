@@ -46,5 +46,23 @@ Q
 :
 
 quadro.txt,1\2\12ba40a57662f062898c5a9a10f13da2671f4925
-I
-myExperiments/equation.py,2\9\292d936cf790749be2129d208d2c08ebddb7cadd
+9
+	my_eq.txt,a\7\a7997b587f621792dad4547fec968fb0efe93b12
+K
+myExperiments/abs_coeff.txt,f\8\f82ec5332c17240c91357a97773027112f068923
+G
+myExperiments/abs_eq.py,0\2\022f59755ecb29ef6102084ddb2312552dfadc23
+R
+"seminar_tasks/seminar_8/users.json,4\3\4349a9d3a73a6ce11d844946c1f2798d188ec680
+Q
+!seminar_tasks/seminar_8/users.csv,0\7\079f24e0a7d20eeb6d210b3357f0589437c63852
+J
+myExperiments/simple_eq.py,8\b\8bc21e3537fcf00e9862616ae18bc63b24b2f5ae
+[
++seminar_tasks/seminar_8/seminar_8_task_4.py,9\5\953a2ba54e459f130ac87ecb9be524e85e532579
+[
++seminar_tasks/seminar_8/seminar_8_task_5.py,0\2\02128e7e771a5d10f2eac3acac47f3e50551294d
+[
++seminar_tasks/seminar_8/seminar_8_task_2.py,6\5\65e2415f0c2f4232e5b4323243754c1af4afd970
+[
++seminar_tasks/seminar_8/seminar_8_task_1.py,e\7\e7f8ccdc1c95752e91113cc6f3bac3f27ddc5eb0

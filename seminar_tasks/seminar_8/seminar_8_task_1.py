@@ -31,7 +31,7 @@ def user_id_by_access_level():
             while flag:
                 if user_id not in users_dict.keys():
                     name = input("Enter your name: ")
-                    user_id_name = {f'user_id_{user_id}': name}
+                    user_id_name = {f'{user_id}': name}
                     flag = False
                 else:
                     user_id = int(input("Enter your correct id: "))
@@ -39,12 +39,12 @@ def user_id_by_access_level():
             while flag:
                 access_level = int(input("Enter your access level: "))
                 if access_level in (range(1, 8)):
-                    if f'access_level_{access_level}' not in users_dict.keys():
-                        users_dict[f'access_level_{access_level}'] = []
-                        users_dict[f'access_level_{access_level}'].append(user_id_name)
+                    if f'{access_level}' not in users_dict.keys():
+                        users_dict[f'{access_level}'] = []
+                        users_dict[f'{access_level}'].append(user_id_name)
                         flag = False
                     else:
-                        users_dict[f'access_level_{access_level}'].append(user_id_name)
+                        users_dict[f'{access_level}'].append(user_id_name)
                         flag = False
                 else:
                     print("enter your correct access level")
