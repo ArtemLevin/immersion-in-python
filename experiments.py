@@ -1,12 +1,22 @@
-import re
 
-text = '''Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-        standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make 
-        a type
-        specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem 
-        Ipsum passages,
-        and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum'''
+def funcCounter(func):
+    counter = 0
 
-my_text = sorted((re.findall("\s.{1,10}l{2}.{1,10}\s", text)))
-print(my_text)
+    def wrapper(*args):
+        nonlocal counter
+        result = func(*args)
+        counter += 1
+        return f" result_{counter} = {result}"
+
+    return wrapper
+
+
+@funcCounter
+def func(a, b):
+    x = a + b
+    return x
+
+
+for a in range(4):
+    for b in range(4):
+        print(func(a, b))

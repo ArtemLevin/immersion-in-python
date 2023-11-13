@@ -1,0 +1,11 @@
+
+ypython:S1178"[Rename this local variable "fracModSum" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î‘íß8‘†Å©²1
+~python:S117"[Rename this local variable "primeList1" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôà„ÿÿÿÿÿ8‘†Å©²1
+~python:S117"[Rename this local variable "primeList2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÅÓ³Íşÿÿÿÿ8‘†Å©²1
+ypython:S117"[Rename this local variable "primeList3" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯Ü8‘†Å©²1
+xpython:S117"[Rename this local variable "primeList4" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶æa8‘†Å©²1
+qpython:S1542"MRename function "fracSum" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ñá‚öıÿÿÿÿ8‘†Å©²1
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ñá‚öıÿÿÿÿ8’†Å©²1
+}python:S117	"ZRename this local variable "primeList" to match the regular expression ^[_a-z][a-z0-9_]*$.(şëûôÿÿÿÿÿ8’†Å©²1
+|python:S117
+"YRename this local variable "rangeNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(Š‚Êúÿÿÿÿ8’†Å©²1
