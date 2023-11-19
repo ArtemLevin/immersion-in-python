@@ -1,0 +1,3 @@
+
+objects.txt False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\__pycache__\objects.txt 2
+seminar_8_task_1.cpython-310.pyc False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\__pycache__\seminar_8_task_1.cpython-310.pyc 1241

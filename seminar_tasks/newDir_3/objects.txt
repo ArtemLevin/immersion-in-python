@@ -1,0 +1,5 @@
+
+hello.txt False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\newDir_3\hello.txt 17
+hello_1.txt False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\newDir_3\hello_1.txt 17
+objects.txt False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\newDir_3\objects.txt 188
+oneMoreDir True C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\newDir_3\oneMoreDir 0

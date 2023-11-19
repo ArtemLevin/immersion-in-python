@@ -1,0 +1,2 @@
+
+objects.txt False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\oneMoreDir\objects.txt 2
