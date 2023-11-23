@@ -1,0 +1,12 @@
+
+hello.txt False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\hello.txt 18
+hello_1.txt False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\hello_1.txt 18
+objects.txt False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\objects.txt 190
+oneMoreDir True C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\oneMoreDir 0
+seminar_8_task_1.py False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\seminar_8_task_1.py 2484
+seminar_8_task_2.py False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\seminar_8_task_2.py 664
+seminar_8_task_4.py False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\seminar_8_task_4.py 510
+seminar_8_task_5.py False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\seminar_8_task_5.py 610
+users.csv False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\users.csv 54
+users.json False C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\users.json 57
+__pycache__ True C:\Users\PC\Desktop\python_lessons_gb\seminar_tasks\seminar_8\__pycache__ 0
