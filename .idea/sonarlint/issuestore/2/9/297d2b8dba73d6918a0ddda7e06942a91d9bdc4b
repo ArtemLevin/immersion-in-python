@@ -1,9 +1,0 @@
-
-€python:S1542"\Rename function "isObjectIsFolderOrFile" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ó¸Ì·úÿÿÿÿ8½ìÒ¶½1
-=python:S125"Remove this commented out code.(ÆÔœ¦8½ìÒ¶½1
-=python:S125"Remove this commented out code.(¿Ž¤š8½ìÒ¶½1
-vpython:S1542"RRename function "pathToObject" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÔùÉŸÿÿÿÿÿ8½ìÒ¶½1
-opython:S1542 "PRename function "objectSize" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ì»¦¨8½ìÒ¶½1
-ypython:S117&"VRename this parameter "objectInfo" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡žóžýÿÿÿÿ8½ìÒ¶½1
-vpython:S117&"SRename this parameter "sumSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡žóžýÿÿÿÿ8ü·á¶½1
-tpython:S1542&"PRename function "folderWalk" to match the regular expression ^[a-z_][a-z0-9_]*$.(‡žóžýÿÿÿÿ8¾ìÒ¶½1

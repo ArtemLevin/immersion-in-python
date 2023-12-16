@@ -1,6 +1,6 @@
 import os
 
-os.chdir("seminar_tasks")
+os.chdir("../seminar_tasks")
 
 print(os.getcwd())
 
@@ -47,7 +47,7 @@ def folderWalk(objectInfo, sumSize):
                 if not os.path.isdir(object):
                     objectInfo.append([object, os.path.isdir(object), os.path.abspath(object), os.stat(object).st_size])
                     sumSize += os.stat(object).st_size
-            os.chdir("..")
+            os.chdir("../..")
     return objectInfo
 
 objDict = []

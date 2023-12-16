@@ -1,18 +1,9 @@
-import os
-import re
+import random
 
-# for el in os.listdir(os.getcwd()):
-#     if "exp" not in el and len(el) > 3:
-#         os.replace(el, "2.1/"+el)
+actionList = ["+", "-", "*"]
+i = 1
+while i < 31:
+    with open("action.doc", "a", encoding="utf-8") as file:
+        file.write(f"{i}) ({random.randint(-50, 50):+}){random.choice(actionList)}({random.randint(1, 50):+}) = \n")
+    i+=1
 
-# class Integer:
-#     def __get_name__(self, owner, name):
-#         self.name = "_" + name
-#
-#     def __get__(self, instance, owner):
-#         return getattr(instance, self.name)
-#
-#     def __set__(self, instance, value):
-#         return setattr(instance, self.name, value
-
-print(r"\n")

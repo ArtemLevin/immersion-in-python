@@ -18,7 +18,7 @@ def funcCounter(func):
 
 
 def myEquation(t, k, x):
-    result = t * x**2 + k*x + 24
+    result = (x+7)/(x+6) - x**3
     return result
 
 
